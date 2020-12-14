@@ -1,0 +1,12 @@
+(module CONNECTOR_QC_TAB-0.25 (layer F.Cu) (tedit 0)
+  (fp_text reference OIL_PRESSURE (at -1.991071 2.828427) (layer F.SilkS)
+    (effects (font (size 1.2065 1.2065) (thickness 0.09652)) (justify left))
+  )
+  (fp_text value CONNECTOR_QC_TAB_0.25 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (pad S1 thru_hole circle (at 2.54 0) (size 2.0955 2.0955) (drill 1.397) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.0762))
+  (pad S2 thru_hole circle (at -2.54 0) (size 2.0955 2.0955) (drill 1.397) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.0762))
+)
