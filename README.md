@@ -1,3 +1,5 @@
+![Gauge](photos/19.jpg)
+
 # QUAD GAUGE FOR A PORSCHE 914
 More info [here](https://evanli.com/quad-gauge-for-a-porsche-914/).
 
